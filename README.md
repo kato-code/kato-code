@@ -14,8 +14,8 @@
 ### Навыки: HTML / CSS / JS / React / Node / Express/ MongoDB / Git / Webpack / Figma
 
 
-- 📫 ksenofontovak@inbox.ru 
-- 📱 tg:kksenofontova 
+- 📫  ksenofontovak@inbox.ru 
+- 📱  tg:kksenofontova 
 
 
 
