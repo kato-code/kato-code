@@ -8,7 +8,7 @@
 - Мне интересно создавать что-то новое и видеть результат своей работы в действии. 
 - Стремлюсь писать чистый и читабельный код. 
 
-### Навыки: HTML / CSS / JS / React / Node / Express/ MongoDB / Git / Webpack / Figma
+### Навыки: HTML / CSS / JS / React / Git / Webpack / Figma
 
 
 - email: ksenofontovak@inbox.ru 
